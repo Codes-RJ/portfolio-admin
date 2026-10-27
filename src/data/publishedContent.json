@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "name": "Rohan",
+    "greeting": "Hello, I'm",
+    "avatarUrl": "/assets/about-profile.webp",
+    "aboutPhotoUrl": "/assets/about-profile.webp",
+    "titles": [
+      "Full Stack Developer",
+      "Data & AI Explorer",
+      "Product-Minded Engineer"
+    ],
+    "bio": "I enjoy turning practical ideas into clear, reliable digital products across web, data, and connected systems.",
+    "aboutText": [
+      "This is temporary portfolio copy designed to demonstrate the layout while the final personal narrative is being prepared.",
+      "The current examples emphasize thoughtful engineering, accessible interfaces, measurable outcomes, and continuous learning. Every item can be replaced from the Admin Dashboard."
+    ],
+    "education": [
+      {
+        "degree": "Degree or Certification Placeholder",
+        "institution": "Your Institution",
+        "period": "Add dates from Admin",
+        "grade": "Optional"
+      }
+    ],
+    "stats": {
+      "projects": 6,
+      "certificates": 3,
+      "technologies": 12,
+      "repos": 6,
+      "experienceYears": 2
+    },
+    "socials": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "instagram": "",
+      "email": "admin@rohanos.dev",
+      "kaggle": "https://kaggle.com"
+    },
+    "resumeUrl": "/resume",
+    "resumePdf": "",
+    "resumeFileName": "",
+    "location": "Available Globally / Remote",
+    "availabilityStatus": "Available for Hire",
+    "responseTime": "Within 24 hours"
+  },
+  "siteSettings": {
+    "primaryColor": "#5B3FE8",
+    "themeMode": "system",
+    "heroHeading": "Hi, I'm Rohan",
+    "heroRole": "Full Stack Developer",
+    "heroDescription": "Building useful web experiences, data products, and intelligent prototypes.",
+    "aboutIntro": "Engineering practical ideas with clarity and care",
+    "aboutDrivesMe": [
+      {
+        "title": "Useful Outcomes",
+        "desc": "Starting with the user problem and keeping implementation decisions connected to a clear purpose.",
+        "icon": "FaLightbulb"
+      },
+      {
+        "title": "Reliable Craft",
+        "desc": "Favoring readable systems, sensible testing, and maintainable interfaces over unnecessary complexity.",
+        "icon": "FaCode"
+      },
+      {
+        "title": "Continuous Learning",
+        "desc": "Exploring new tools through focused experiments and documenting what works along the way.",
+        "icon": "FaBrain"
+      }
+    ],
+    "aboutJourney": [
+      {
+        "period": "Foundation",
+        "title": "Learning the Building Blocks",
+        "company": "Independent Practice",
+        "description": "Developed a foundation in programming, web standards, databases, and practical problem solving."
+      },
+      {
+        "period": "Exploration",
+        "title": "Building Across Domains",
+        "company": "Project-Based Learning",
+        "description": "Created small web, data, AI, and IoT prototypes to understand complete product workflows."
+      },
+      {
+        "period": "Now",
+        "title": "Refining Production Skills",
+        "company": "Portfolio in Progress",
+        "description": "Improving system design, accessibility, testing, deployment, and communication through hands-on work."
+      }
+    ],
+    "education": {
+      "degree": "Education Placeholder",
+      "field": "Computer Science / Related Field",
+      "institution": "Update from Admin Dashboard",
+      "period": "Add dates",
+      "location": "Add location",
+      "coursework": [
+        "Data Structures",
+        "Database Systems",
+        "Software Engineering",
+        "Computer Networks"
+      ]
+    },
+    "educationCoursework": [
+      "Data Structures",
+      "Database Systems",
+      "Software Engineering",
+      "Computer Networks"
+    ],
+    "funFacts": [
+      "Enjoys simplifying complicated workflows",
+      "Learns best by building small working prototypes",
+      "Values clear documentation as part of the product",
+      "Interested in the overlap between design and engineering"
+    ],
+    "techLove": [
+      { "name": "TypeScript", "icon": "SiTypescript" },
+      { "name": "React", "icon": "SiReact" },
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "PostgreSQL", "icon": "SiPostgresql" },
+      { "name": "Docker", "icon": "SiDocker" },
+      { "name": "AWS", "icon": "FaAws" }
+    ],
+    "experienceHighlights": {
+      "yearsExp": "2+",
+      "organizations": "Demo",
+      "projectsDelivered": "6",
+      "clientSatisfaction": "Replace",
+      "coreStrengths": [
+        "Full-stack product development",
+        "Data-informed problem solving",
+        "API and database design",
+        "Accessible responsive interfaces"
+      ]
+    },
+    "contactInfo": {
+      "email": "admin@rohanos.dev",
+      "phone": "Add from Admin",
+      "location": "Available Globally / Remote",
+      "responseTime": "Within 24 hours"
+    },
+    "faqs": [
+      {
+        "question": "What kinds of opportunities are you considering?",
+        "answer": "This temporary answer can be replaced with preferred roles, collaborations, freelance work, or research interests."
+      },
+      {
+        "question": "Which technologies do you work with?",
+        "answer": "The demo portfolio currently highlights React, TypeScript, Node.js, Python, PostgreSQL, cloud tooling, and selected AI/IoT workflows."
+      },
+      {
+        "question": "How quickly do you respond?",
+        "answer": "The temporary response-time target is within one business day. Update this in the Admin Dashboard if needed."
+      }
+    ],
+    "pageHeaders": {
+      "about": {
+        "eyebrow": "// about this portfolio",
+        "title": "Curiosity, Craft, and Practical Engineering",
+        "subtitle": "Temporary background content showing how the final personal story, education, and working principles will be presented."
+      },
+      "projects": {
+        "eyebrow": "// selected demonstrations",
+        "title": "Projects Across Web, Data, AI, and Systems",
+        "subtitle": "Replaceable case-study examples showing the intended project structure, filters, details, and supporting links."
+      },
+      "skills": {
+        "eyebrow": "// working toolkit",
+        "title": "Skills, Tools, and Technologies",
+        "subtitle": "A temporary overview of a modern full-stack toolkit. Adjust proficiency and experience values from the Admin Dashboard."
+      },
+      "experience": {
+        "eyebrow": "// experience preview",
+        "title": "A Flexible Career Timeline",
+        "subtitle": "Neutral placeholder roles demonstrate the timeline until verified professional history and outcomes are added."
+      },
+      "certificates": {
+        "eyebrow": "// learning milestones",
+        "title": "Certificates and Continued Learning",
+        "subtitle": "Demo credentials show the layout only and should be replaced with verified certificates before publication."
+      },
+      "blog": {
+        "eyebrow": "// notes and ideas",
+        "title": "Technical Writing and Build Notes",
+        "subtitle": "Sample articles demonstrate categories, tags, reading time, featured states, and long-form content."
+      },
+      "research": {
+        "eyebrow": "// questions worth exploring",
+        "title": "Research Notes and Technical Explorations",
+        "subtitle": "Temporary research summaries show how publications, experiments, authors, and resources will be organized."
+      },
+      "contact": {
+        "eyebrow": "// start a conversation",
+        "title": "Let's Discuss Useful Work",
+        "subtitle": "Use the form for opportunities, collaborations, project questions, or general conversation."
+      }
+    }
+  },
+  "projects": [
+    {
+      "id": "demo-studioboard",
+      "title": "StudioBoard",
+      "category": "Web Dev",
+      "categories": ["Web Dev", "Backend", "Cloud"],
+      "description": "A collaborative workspace for planning projects, sharing progress, and keeping small teams aligned.",
+      "longDescription": "StudioBoard brings planning, ownership, status updates, and team discussion into one responsive workspace. Its component-driven interface keeps common actions consistent while a structured API supports projects, members, and activity history.",
+      "image": "/assets/Project Page (Light).webp",
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "REST API"],
+      "metrics": ["Unified planning, updates, and ownership in one workspace"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": true,
+      "flagship": true,
+      "homeShowcase": true,
+      "date": "2026",
+      "keyFeatures": ["Responsive workspace", "Project status views", "Reusable UI components"],
+      "order": 1
+    },
+    {
+      "id": "demo-insightflow",
+      "title": "InsightFlow",
+      "category": "Data Science",
+      "categories": ["Data Science", "Web Dev"],
+      "description": "An analytics dashboard that turns uploaded operational data into readable trends and summaries.",
+      "longDescription": "InsightFlow guides a dataset from upload through validation, cleanup, exploration, and visual reporting. The workflow emphasizes understandable charts, traceable transformations, and exportable summaries for teams that need useful answers without navigating raw tables.",
+      "image": "/assets/Research (Light).webp",
+      "technologies": ["Python", "Pandas", "PostgreSQL", "Plotly"],
+      "metrics": ["Reusable data-cleaning and reporting workflow"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": true,
+      "homeShowcase": true,
+      "date": "2026",
+      "keyFeatures": ["CSV ingestion", "Interactive charts", "Exportable summaries"],
+      "order": 2
+    },
+    {
+      "id": "demo-visionassist",
+      "title": "VisionAssist",
+      "category": "AI/ML",
+      "categories": ["AI/ML", "Data Science", "Backend"],
+      "description": "A computer-vision workspace for organizing images and reviewing model predictions in context.",
+      "longDescription": "VisionAssist connects image preparation, model inference, confidence review, and human feedback in a single workflow. A lightweight API separates model execution from the review interface, making experiments easier to compare and uncertain predictions easier to inspect.",
+      "image": "/assets/Cube Image.webp",
+      "technologies": ["Python", "PyTorch", "FastAPI", "OpenCV"],
+      "metrics": ["Human review workflow for model predictions"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": true,
+      "homeShowcase": true,
+      "date": "2026",
+      "keyFeatures": ["Image inference", "Confidence review", "Feedback capture"],
+      "order": 3
+    },
+    {
+      "id": "demo-sensorgrid",
+      "title": "SensorGrid",
+      "category": "IoT",
+      "categories": ["IoT", "Data Science", "Cloud"],
+      "description": "A monitoring console for connected devices, live readings, alerts, and fleet health checks.",
+      "longDescription": "SensorGrid receives device telemetry over MQTT, streams current readings to the interface, and highlights devices that need attention. Grouped fleet views and alert states turn a continuous sensor feed into an operational picture that works across desktop and mobile screens.",
+      "image": "/assets/Experience Page (Light).webp",
+      "technologies": ["ESP32", "MQTT", "Node.js", "WebSockets"],
+      "metrics": ["Live device health and telemetry visibility"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": true,
+      "homeShowcase": true,
+      "date": "2026",
+      "keyFeatures": ["Live telemetry", "Status alerts", "Device grouping"],
+      "order": 4
+    },
+    {
+      "id": "demo-queuepilot",
+      "title": "QueuePilot",
+      "category": "Backend",
+      "categories": ["Backend", "Cloud"],
+      "description": "An event-processing service designed around reliable background jobs, retries, and clear observability.",
+      "longDescription": "QueuePilot accepts asynchronous work, processes jobs through retry-aware workers, records each outcome, and exposes concise health information. The design focuses on predictable failure handling and enough operational context to understand what is queued, running, completed, or blocked.",
+      "image": "/assets/Blog (Light).webp",
+      "technologies": ["Node.js", "PostgreSQL", "Redis", "Docker"],
+      "metrics": ["Retry-aware processing with visible job status"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": true,
+      "homeShowcase": true,
+      "date": "2026",
+      "keyFeatures": ["Job retries", "Queue visibility", "Health endpoints"],
+      "order": 5
+    },
+    {
+      "id": "demo-cloudlaunch",
+      "title": "CloudLaunch",
+      "category": "Cloud",
+      "categories": ["Cloud", "Backend"],
+      "description": "A deployment toolkit for repeatable application releases, environment validation, and release checks.",
+      "longDescription": "CloudLaunch organizes build validation, environment configuration, infrastructure changes, deployment, and post-release verification into a repeatable pipeline. The toolkit makes release steps explicit so failures can be located quickly and successful deployments can be reproduced across environments.",
+      "image": "/assets/Certificate Page (Light).webp",
+      "technologies": ["AWS", "Docker", "GitHub Actions", "Terraform"],
+      "metrics": ["Repeatable deployments with post-release verification"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "showGithub": true,
+      "showLive": true,
+      "featured": false,
+      "homeShowcase": false,
+      "date": "2026",
+      "keyFeatures": ["Build checks", "Environment validation", "Deployment automation"],
+      "order": 6
+    }
+  ],
+  "experiences": [
+    {
+      "id": "demo-experience-product",
+      "title": "Product Engineering Contributor",
+      "company": "Example Product Team",
+      "location": "Remote",
+      "period": "Recent - Demo",
+      "type": "Project-based",
+      "logo": "/assets/Experience Page (Light).webp",
+      "summary": "Temporary role entry showing how product responsibilities, collaboration, and delivery outcomes appear in the timeline.",
+      "responsibilities": [
+        "Translated small product requirements into responsive interface components.",
+        "Connected frontend workflows to documented APIs and data models.",
+        "Participated in reviews, testing, and release preparation."
+      ],
+      "achievements": [
+        "Demonstrated a reusable component workflow.",
+        "Documented implementation decisions for future maintainers."
+      ],
+      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL"]
+    },
+    {
+      "id": "demo-experience-data",
+      "title": "Data Project Contributor",
+      "company": "Example Analytics Lab",
+      "location": "Hybrid",
+      "period": "Previous - Demo",
+      "type": "Learning project",
+      "logo": "/assets/Research (Light).webp",
+      "summary": "Temporary experience entry demonstrating how analytical work, experiments, and findings can be summarized.",
+      "responsibilities": [
+        "Prepared sample datasets and documented cleaning assumptions.",
+        "Built repeatable exploratory analysis and visualization steps.",
+        "Presented limitations alongside the resulting observations."
+      ],
+      "achievements": [
+        "Created a consistent analysis template.",
+        "Improved clarity of data-quality reporting."
+      ],
+      "technologies": ["Python", "Pandas", "Jupyter", "PostgreSQL"]
+    },
+    {
+      "id": "demo-experience-community",
+      "title": "Technical Community Volunteer",
+      "company": "Example Developer Community",
+      "location": "Remote",
+      "period": "Ongoing - Demo",
+      "type": "Volunteer",
+      "logo": "/assets/Blog (Light).webp",
+      "summary": "Temporary community entry illustrating mentoring, documentation, and knowledge-sharing activities.",
+      "responsibilities": [
+        "Reviewed beginner-friendly project documentation.",
+        "Helped organize small technical learning sessions.",
+        "Shared practical notes from recent experiments."
+      ],
+      "achievements": [
+        "Produced reusable learning notes.",
+        "Supported a welcoming feedback process."
+      ],
+      "technologies": ["GitHub", "Markdown", "JavaScript"]
+    }
+  ],
+  "skills": [
+    { "id": "demo-skill-typescript", "name": "TypeScript", "category": "Web Dev", "level": 82, "proficiency": "Advanced", "years": 2, "projectsCount": 5, "iconName": "SiTypescript" },
+    { "id": "demo-skill-react", "name": "React", "category": "Web Dev", "level": 84, "proficiency": "Advanced", "years": 2, "projectsCount": 5, "iconName": "SiReact" },
+    { "id": "demo-skill-node", "name": "Node.js", "category": "Backend", "level": 76, "proficiency": "Intermediate", "years": 2, "projectsCount": 4, "iconName": "SiNodedotjs" },
+    { "id": "demo-skill-python", "name": "Python", "category": "Data Science", "level": 80, "proficiency": "Advanced", "years": 2, "projectsCount": 5, "iconName": "SiPython" },
+    { "id": "demo-skill-postgres", "name": "PostgreSQL", "category": "Database", "level": 72, "proficiency": "Intermediate", "years": 1, "projectsCount": 4, "iconName": "SiPostgresql" },
+    { "id": "demo-skill-pytorch", "name": "PyTorch", "category": "AI/ML", "level": 64, "proficiency": "Intermediate", "years": 1, "projectsCount": 2, "iconName": "SiPytorch" },
+    { "id": "demo-skill-docker", "name": "Docker", "category": "Cloud", "level": 68, "proficiency": "Intermediate", "years": 1, "projectsCount": 4, "iconName": "SiDocker" },
+    { "id": "demo-skill-aws", "name": "AWS", "category": "Cloud", "level": 58, "proficiency": "Learning", "years": 1, "projectsCount": 2, "iconName": "FaAws" },
+    { "id": "demo-skill-mqtt", "name": "MQTT", "category": "IoT", "level": 62, "proficiency": "Intermediate", "years": 1, "projectsCount": 2, "iconName": "SiMqtt" },
+    { "id": "demo-skill-git", "name": "Git", "category": "Tools", "level": 78, "proficiency": "Advanced", "years": 2, "projectsCount": 6, "iconName": "SiGit" },
+    { "id": "demo-skill-testing", "name": "Testing", "category": "Web Dev", "level": 66, "proficiency": "Intermediate", "years": 1, "projectsCount": 4, "iconName": "FaCode" },
+    { "id": "demo-skill-accessibility", "name": "Web Accessibility", "category": "Web Dev", "level": 63, "proficiency": "Intermediate", "years": 1, "projectsCount": 3, "iconName": "SiHtml5" }
+  ],
+  "skillCategories": [
+    {
+      "id": "demo-category-frontend",
+      "title": "Frontend",
+      "category": "Web Dev",
+      "iconName": "SiReact",
+      "proficiency": 82,
+      "skills": [
+        { "name": "React", "proficiency": 84 },
+        { "name": "TypeScript", "proficiency": 82 },
+        { "name": "Responsive CSS", "proficiency": 78 }
+      ]
+    },
+    {
+      "id": "demo-category-backend",
+      "title": "Backend",
+      "category": "Backend",
+      "iconName": "SiNodedotjs",
+      "proficiency": 74,
+      "skills": [
+        { "name": "Node.js", "proficiency": 76 },
+        { "name": "REST APIs", "proficiency": 74 },
+        { "name": "PostgreSQL", "proficiency": 72 }
+      ]
+    },
+    {
+      "id": "demo-category-data",
+      "title": "Data & AI",
+      "category": "AI/ML",
+      "iconName": "SiPython",
+      "proficiency": 70,
+      "skills": [
+        { "name": "Python", "proficiency": 80 },
+        { "name": "Data Analysis", "proficiency": 74 },
+        { "name": "Machine Learning", "proficiency": 64 }
+      ]
+    },
+    {
+      "id": "demo-category-cloud",
+      "title": "Cloud & DevOps",
+      "category": "Cloud",
+      "iconName": "SiDocker",
+      "proficiency": 64,
+      "skills": [
+        { "name": "Docker", "proficiency": 68 },
+        { "name": "CI/CD", "proficiency": 66 },
+        { "name": "AWS", "proficiency": 58 }
+      ]
+    },
+    {
+      "id": "demo-category-iot",
+      "title": "IoT",
+      "category": "IoT",
+      "iconName": "SiMqtt",
+      "proficiency": 62,
+      "skills": [
+        { "name": "MQTT", "proficiency": 62 },
+        { "name": "ESP32", "proficiency": 60 },
+        { "name": "Telemetry", "proficiency": 64 }
+      ]
+    }
+  ],
+  "toolsList": [
+    { "id": "demo-tool-vscode", "name": "VS Code", "icon": "TbBrandVscode", "category": "Editor" },
+    { "id": "demo-tool-git", "name": "Git", "icon": "SiGit", "category": "Version Control" },
+    { "id": "demo-tool-github", "name": "GitHub", "icon": "SiGithub", "category": "Collaboration" },
+    { "id": "demo-tool-postman", "name": "Postman", "icon": "SiPostman", "category": "API" },
+    { "id": "demo-tool-figma", "name": "Figma", "icon": "SiFigma", "category": "Design" },
+    { "id": "demo-tool-docker", "name": "Docker", "icon": "SiDocker", "category": "DevOps" },
+    { "id": "demo-tool-jupyter", "name": "Jupyter", "icon": "SiJupyter", "category": "Data" },
+    { "id": "demo-tool-notion", "name": "Notion", "icon": "SiNotion", "category": "Documentation" }
+  ],
+  "techStack": [
+    { "id": "demo-tech-typescript", "name": "TypeScript", "icon": "SiTypescript", "color": "#3178C6", "category": "Languages" },
+    { "id": "demo-tech-react", "name": "React", "icon": "SiReact", "color": "#61DAFB", "category": "Frontend" },
+    { "id": "demo-tech-tailwind", "name": "Tailwind CSS", "icon": "SiTailwindcss", "color": "#06B6D4", "category": "Frontend" },
+    { "id": "demo-tech-node", "name": "Node.js", "icon": "SiNodedotjs", "color": "#5FA04E", "category": "Backend" },
+    { "id": "demo-tech-fastapi", "name": "FastAPI", "icon": "SiFastapi", "color": "#009688", "category": "Backend" },
+    { "id": "demo-tech-python", "name": "Python", "icon": "SiPython", "color": "#3776AB", "category": "Languages" },
+    { "id": "demo-tech-postgres", "name": "PostgreSQL", "icon": "SiPostgresql", "color": "#4169E1", "category": "Databases" },
+    { "id": "demo-tech-redis", "name": "Redis", "icon": "SiRedis", "color": "#DC382D", "category": "Databases" },
+    { "id": "demo-tech-pytorch", "name": "PyTorch", "icon": "SiPytorch", "color": "#EE4C2C", "category": "AI / ML" },
+    { "id": "demo-tech-docker", "name": "Docker", "icon": "SiDocker", "color": "#2496ED", "category": "Cloud & DevOps" },
+    { "id": "demo-tech-aws", "name": "AWS", "icon": "FaAws", "color": "#FF9900", "category": "Cloud & DevOps" },
+    { "id": "demo-tech-mqtt", "name": "MQTT", "icon": "SiMqtt", "color": "#660066", "category": "IoT" }
+  ],
+  "currentlyLearning": [
+    {
+      "id": "demo-learning-system-design",
+      "title": "Scalable System Design",
+      "topic": "Architecture",
+      "icon": "FaServer",
+      "description": "Exploring tradeoffs in caching, queues, observability, and service boundaries through small design exercises.",
+      "progress": 62,
+      "status": "In Progress"
+    },
+    {
+      "id": "demo-learning-llm",
+      "title": "Practical AI Applications",
+      "topic": "AI Engineering",
+      "icon": "TbBrandOpenai",
+      "description": "Learning evaluation, retrieval, structured outputs, and responsible integration patterns for AI-assisted products.",
+      "progress": 48,
+      "status": "Exploring"
+    },
+    {
+      "id": "demo-learning-cloud",
+      "title": "Cloud Infrastructure Basics",
+      "topic": "DevOps",
+      "icon": "SiTerraform",
+      "description": "Practicing repeatable infrastructure, environment configuration, deployment checks, and monitoring fundamentals.",
+      "progress": 40,
+      "status": "Planned"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "demo-achievement-build",
+      "title": "Project Showcase Placeholder",
+      "organization": "Personal Portfolio",
+      "year": "2026",
+      "category": "Award",
+      "description": "Temporary achievement card demonstrating where a verified award, milestone, or competition result can be presented.",
+      "badge": "cert-trophy",
+      "link": "https://example.com"
+    },
+    {
+      "id": "demo-achievement-community",
+      "title": "Community Contribution Placeholder",
+      "organization": "Example Developer Community",
+      "year": "2026",
+      "category": "Hackathon",
+      "description": "Replace this item with a real hackathon result, open-source contribution, volunteer milestone, or technical event.",
+      "badge": "honor-community",
+      "link": "https://example.com"
+    },
+    {
+      "id": "demo-achievement-writing",
+      "title": "Technical Writing Placeholder",
+      "organization": "Portfolio Notes",
+      "year": "2026",
+      "category": "Publication",
+      "description": "Temporary example for a published article, research mention, ranking, or other independently verifiable recognition.",
+      "badge": "honor-writing",
+      "link": "https://example.com"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "demo-certificate-web",
+      "title": "Modern Web Development - Demo",
+      "issuer": "Example Learning Platform",
+      "date": "2026",
+      "credentialId": "DEMO-WEB-001",
+      "verificationUrl": "https://example.com",
+      "category": "Web Dev",
+      "logo": "/assets/Cube Image.webp",
+      "image": "/assets/Certificate Page (Light).webp",
+      "pdfUrl": ""
+    },
+    {
+      "id": "demo-certificate-data",
+      "title": "Applied Data Analysis - Demo",
+      "issuer": "Example Learning Platform",
+      "date": "2026",
+      "credentialId": "DEMO-DATA-002",
+      "verificationUrl": "https://example.com",
+      "category": "Data Science",
+      "logo": "/assets/Research (Light).webp",
+      "image": "/assets/Certificate Page (Dark).webp",
+      "pdfUrl": ""
+    },
+    {
+      "id": "demo-certificate-cloud",
+      "title": "Cloud Fundamentals - Demo",
+      "issuer": "Example Learning Platform",
+      "date": "2026",
+      "credentialId": "DEMO-CLOUD-003",
+      "verificationUrl": "https://example.com",
+      "category": "Cloud",
+      "logo": "/assets/Cube Image (dark).webp",
+      "image": "/assets/Certificate Page (Light).webp",
+      "pdfUrl": ""
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "demo-blog-component-systems",
+      "title": "Building a Small Component System Without Overengineering",
+      "slug": "building-a-small-component-system",
+      "summary": "A practical outline for introducing reusable interface patterns while keeping a growing codebase understandable.",
+      "content": "This is temporary article content for previewing the long-form reading experience.\n\nA useful component system begins with repeated product needs, not an abstract inventory. Start with a small token layer, document interaction states, and keep composition flexible.\n\nReplace this demo from the Admin Dashboard with a real article, examples, code snippets, and conclusions.",
+      "category": "Development",
+      "readTime": "5 min read",
+      "publishedAt": "2026-09-01",
+      "tags": ["React", "Design Systems", "Frontend"],
+      "image": "/assets/Blog (Light).webp",
+      "featured": true
+    },
+    {
+      "id": "demo-blog-api-design",
+      "title": "Notes on Designing Clear API Boundaries",
+      "slug": "notes-on-clear-api-boundaries",
+      "summary": "A demo article about contracts, validation, failure states, and keeping service interfaces easy to change.",
+      "content": "This placeholder article demonstrates headings, paragraphs, metadata, tags, and the article detail route.\n\nClear API boundaries make expected inputs, outputs, errors, and ownership visible. Validation should happen near trust boundaries, while internal types keep downstream logic straightforward.\n\nReplace this content with verified experience and original examples before publishing.",
+      "category": "Architecture",
+      "readTime": "6 min read",
+      "publishedAt": "2026-08-20",
+      "tags": ["APIs", "Architecture", "TypeScript"],
+      "image": "/assets/Project Page (Dark).webp",
+      "featured": false
+    },
+    {
+      "id": "demo-blog-learning",
+      "title": "A Lightweight Workflow for Learning New Tools",
+      "slug": "lightweight-workflow-for-learning-tools",
+      "summary": "A temporary note on moving from documentation to a small experiment, reflection, and reusable reference.",
+      "content": "This demo post fills the blog archive while final writing is prepared.\n\nChoose one concrete task, read the smallest relevant part of the documentation, build a limited prototype, and record both successful decisions and dead ends.\n\nThe final article can be edited or replaced entirely through the Admin Dashboard.",
+      "category": "Career",
+      "readTime": "4 min read",
+      "publishedAt": "2026-08-08",
+      "tags": ["Learning", "Productivity", "Documentation"],
+      "image": "/assets/Skill Page (Light).webp",
+      "featured": false
+    }
+  ],
+  "researchPapers": [
+    {
+      "id": "demo-research-edge",
+      "title": "Exploring Reliable Telemetry Patterns for Small Edge Systems",
+      "venue": "Independent Technical Exploration - Demo",
+      "year": "2026",
+      "authors": ["Rohan", "Example Collaborator"],
+      "abstract": "Temporary research summary examining buffering, reconnection, and data-quality tradeoffs in a small connected-device environment. This is a layout demonstration, not a published paper.",
+      "pdfUrl": "",
+      "paperUrl": "https://example.com",
+      "doi": "Demo placeholder - no DOI",
+      "citations": 0,
+      "readTime": "7 min read",
+      "date": "2026-08-15",
+      "category": "Edge AI & IoT",
+      "image": "/assets/Research (Light).webp",
+      "keywords": ["IoT", "Telemetry", "Reliability"]
+    },
+    {
+      "id": "demo-research-interfaces",
+      "title": "Evaluating Readability in Data-Dense Developer Interfaces",
+      "venue": "Portfolio Research Note - Demo",
+      "year": "2026",
+      "authors": ["Rohan"],
+      "abstract": "A placeholder research note about hierarchy, progressive disclosure, and accessible presentation in technical dashboards. Replace with original research or remove before launch.",
+      "pdfUrl": "",
+      "paperUrl": "https://example.com",
+      "doi": "Demo placeholder - no DOI",
+      "citations": 0,
+      "readTime": "5 min read",
+      "date": "2026-07-28",
+      "category": "Web Technologies",
+      "image": "/assets/Project Page (Light).webp",
+      "keywords": ["Accessibility", "Data Visualization", "UI"]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "demo-gallery-project",
+      "title": "Project Interface Study",
+      "category": "UI/UX Design",
+      "imageUrl": "/assets/Project Page (Light).webp",
+      "description": "Temporary gallery item using the portfolio's existing project illustration."
+    },
+    {
+      "id": "demo-gallery-skills",
+      "title": "Skills Page Exploration",
+      "category": "UI/UX Design",
+      "imageUrl": "/assets/Skill Page (Dark).webp",
+      "description": "Demo visual showing a dark interface direction for technical skills."
+    },
+    {
+      "id": "demo-gallery-research",
+      "title": "Research Layout Study",
+      "category": "UI/UX Design",
+      "imageUrl": "/assets/Research (Light).webp",
+      "description": "Temporary gallery entry for the research and publications visual system."
+    },
+    {
+      "id": "demo-gallery-certificate",
+      "title": "Credential Presentation",
+      "category": "Certifications",
+      "imageUrl": "/assets/Certificate Page (Light).webp",
+      "description": "Demo image showing how credential artwork can be presented."
+    },
+    {
+      "id": "demo-gallery-experience",
+      "title": "Career Timeline Concept",
+      "category": "UI/UX Design",
+      "imageUrl": "/assets/Experience Page (Dark).webp",
+      "description": "Temporary visual study for experience and timeline content."
+    },
+    {
+      "id": "demo-gallery-cube",
+      "title": "RohanOS Visual Motif",
+      "category": "UI/UX Design",
+      "imageUrl": "/assets/Cube Image.webp",
+      "description": "Existing dimensional illustration used as a reusable portfolio motif."
+    }
+  ],
+  "messages": [],
+  "projectCategories": [
+    "Web Dev",
+    "AI/ML",
+    "IoT",
+    "Data Science",
+    "Backend",
+    "Cloud"
+  ],
+  "certificateCategories": [
+    "Cloud",
+    "AI/ML",
+    "Web Dev",
+    "Data Science",
+    "Programming",
+    "Others"
+  ],
+  "blogCategories": [
+    "Development",
+    "AI & ML",
+    "Architecture",
+    "Cloud",
+    "Career",
+    "IoT & Hardware"
+  ],
+  "exportedAt": "2026-09-15T00:00:00.000Z"
+}

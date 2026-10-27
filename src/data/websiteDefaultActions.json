@@ -1,0 +1,101 @@
+{
+  "/about": {
+    "badge": "// let's build the future",
+    "title": "Have a project in mind or want to collaborate?",
+    "description": "I am currently open for full-time software engineering roles, high-impact consulting, and AI research projects.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "View Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/blog": {
+    "badge": "// discuss insights & tech",
+    "title": "Interested in collaborating or discussing engineering ideas?",
+    "description": "I'm always open to technical discussions, code reviews, writing collaborations, and speaking opportunities.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/certificates": {
+    "badge": "// committed to engineering mastery",
+    "title": "Continual Certification & Knowledge Benchmarking",
+    "description": "I actively pursue ongoing credentialing in advanced cloud engineering, distributed architectures, and generative AI systems.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Skills Matrix",
+    "secondaryBtnPath": "/skills"
+  },
+  "/experience": {
+    "badge": "// explore collaboration",
+    "title": "Looking for a driven Full Stack & AI Engineer?",
+    "description": "I am available for full-time software engineering roles, high-impact consulting, and AI systems engineering.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/gallery": {
+    "badge": "// connect & create",
+    "title": "Want to build something thoughtful together?",
+    "description": "Get in touch to discuss engineering, design, research, or collaboration opportunities.",
+    "primaryBtnText": "Let's Talk",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/privacy": {
+    "badge": "// privacy & compliance",
+    "title": "Have questions about data handling or privacy?",
+    "description": "Feel free to reach out directly if you have any questions or data requests.",
+    "primaryBtnText": "Contact Me",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "View Terms",
+    "secondaryBtnPath": "/terms"
+  },
+  "/projects": {
+    "badge": "// build something ambitious",
+    "title": "Need a custom software solution or AI application?",
+    "description": "I design, architect, and ship high-performance digital products from idea to production.",
+    "primaryBtnText": "Let's Talk",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Download Resume",
+    "secondaryBtnPath": "/resume"
+  },
+  "/research": {
+    "badge": "// academic & industry collaboration",
+    "title": "Interested in Joint AI & Edge Computing Research?",
+    "description": "I actively collaborate with universities, research labs, and tech enterprises on model optimization, IoT telemetry, and computer vision.",
+    "primaryBtnText": "Initiate Collaboration",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Full CV",
+    "secondaryBtnPath": "/resume"
+  },
+  "/resume": {
+    "badge": "// hiring & engineering inquiry",
+    "title": "Ready to discuss an engineering role or technical project?",
+    "description": "I am actively interviewing for full-stack engineering and machine learning roles. Let's start a conversation.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/skills": {
+    "badge": "// discuss technical stacks",
+    "title": "Looking for specialized full-stack or AI expertise?",
+    "description": "I bring hands-on experience in production environments, microservices, and modern web application development.",
+    "primaryBtnText": "Let's Talk",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Explore Projects",
+    "secondaryBtnPath": "/projects"
+  },
+  "/terms": {
+    "badge": "// terms & inquiries",
+    "title": "Looking for a commercial license or custom software agreement?",
+    "description": "I provide custom software engineering agreements and commercial licensing for enterprise applications.",
+    "primaryBtnText": "Get In Touch",
+    "primaryBtnPath": "/contact",
+    "secondaryBtnText": "Privacy Policy",
+    "secondaryBtnPath": "/privacy"
+  }
+}

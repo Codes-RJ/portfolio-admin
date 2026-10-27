@@ -1,0 +1,1146 @@
+{
+  "AboutPage.c99de808b5e0": {
+    "scope": "AboutPage",
+    "text": "My philosophy revolves around end-to-end software craftsmanship: from rigorous architecture and type safety to micro-interactions and smooth, accessible user interfaces. I constantly bridge theoretical computer science with pragmatic, production-grade applications."
+  },
+  "AboutPage.f058670f3944": {
+    "scope": "AboutPage",
+    "text": "View resume"
+  },
+  "AboutPage.c82a73213ffc": {
+    "scope": "AboutPage",
+    "text": "Let's Connect"
+  },
+  "AboutPage.758fd6c9610a": {
+    "scope": "AboutPage",
+    "text": "Projects Completed"
+  },
+  "AboutPage.471502f86c77": {
+    "scope": "AboutPage",
+    "text": "Certifications"
+  },
+  "AboutPage.15ea40642e51": {
+    "scope": "AboutPage",
+    "text": "Published Papers"
+  },
+  "AboutPage.1b2c08a8733d": {
+    "scope": "AboutPage",
+    "text": "Quality"
+  },
+  "AboutPage.44ad857559c4": {
+    "scope": "AboutPage",
+    "text": "Engineering Focus"
+  },
+  "AboutPage.5912782f153a": {
+    "scope": "AboutPage",
+    "text": "Core Values"
+  },
+  "AboutPage.0c805b687f20": {
+    "scope": "AboutPage",
+    "text": "What Drives Me"
+  },
+  "AboutPage.b618b98c7d31": {
+    "scope": "AboutPage",
+    "text": "Core values will appear here when published."
+  },
+  "AboutPage.39c33dc2375f": {
+    "scope": "AboutPage",
+    "text": "Milestones"
+  },
+  "AboutPage.611757dd480e": {
+    "scope": "AboutPage",
+    "text": "My Journey"
+  },
+  "AboutPage.ea173fe84502": {
+    "scope": "AboutPage",
+    "text": "Career milestones will appear here when published."
+  },
+  "AboutPage.c11b71d1b24f": {
+    "scope": "AboutPage",
+    "text": "Academic Background, Personality & Tools"
+  },
+  "AboutPage.512ab3c6b986": {
+    "scope": "AboutPage",
+    "text": "Education"
+  },
+  "AboutPage.1c1edf81a8d8": {
+    "scope": "AboutPage",
+    "text": "No education history added yet."
+  },
+  "AboutPage.1f84b1f4bb1c": {
+    "scope": "AboutPage",
+    "text": "GPA: "
+  },
+  "AboutPage.9ce8238bd409": {
+    "scope": "AboutPage",
+    "text": "Relevant Coursework:"
+  },
+  "AboutPage.cad583e44b20": {
+    "scope": "AboutPage",
+    "text": "Fun Facts"
+  },
+  "AboutPage.57b0d6284e54": {
+    "scope": "AboutPage",
+    "text": "No fun facts added yet."
+  },
+  "AboutPage.0ed132a66a8d": {
+    "scope": "AboutPage",
+    "text": "Tech I Love"
+  },
+  "BlogDetailPage.af6ccf95df70": {
+    "scope": "BlogDetailPage",
+    "text": "Article not found"
+  },
+  "BlogDetailPage.dde30a6e69b8": {
+    "scope": "BlogDetailPage",
+    "text": "Back to articles"
+  },
+  "BlogDetailPage.387bff93c3bb": {
+    "scope": "BlogDetailPage",
+    "text": "All articles"
+  },
+  "BlogPage.eb9830a61ec1": {
+    "scope": "BlogPage",
+    "text": " Published Articles"
+  },
+  "BlogPage.2308c67955cf": {
+    "scope": "BlogPage",
+    "text": "Weekly Releases"
+  },
+  "BlogPage.4536a47de9e8": {
+    "scope": "BlogPage",
+    "text": "Read Article"
+  },
+  "BlogPage.435567b14289": {
+    "scope": "BlogPage",
+    "text": "← Previous"
+  },
+  "BlogPage.6076934f99bd": {
+    "scope": "BlogPage",
+    "text": "Page "
+  },
+  "BlogPage.a4282e4b2298": {
+    "scope": "BlogPage",
+    "text": " of "
+  },
+  "BlogPage.bcf0489a7b45": {
+    "scope": "BlogPage",
+    "text": "Next →"
+  },
+  "BlogPage.f6ff198de217": {
+    "scope": "BlogPage",
+    "text": "Author & Tech Writer"
+  },
+  "BlogPage.842caa0f1e5f": {
+    "scope": "BlogPage",
+    "text": "Writing pragmatic technical breakdowns on full-stack web applications, AI models, and real-time distributed engineering."
+  },
+  "BlogPage.5f06bef28f75": {
+    "scope": "BlogPage",
+    "text": "More about Rohan"
+  },
+  "BlogPage.c97df800661a": {
+    "scope": "BlogPage",
+    "text": "Popular Articles"
+  },
+  "CertificatesPage.5e093f8d5f1f": {
+    "scope": "CertificatesPage",
+    "text": "View In Full CV"
+  },
+  "CertificatesPage.e7d33774b9a4": {
+    "scope": "CertificatesPage",
+    "text": "Total Certifications"
+  },
+  "CertificatesPage.5388991aa531": {
+    "scope": "CertificatesPage",
+    "text": "With Verification Links"
+  },
+  "CertificatesPage.d7ad8029d5e3": {
+    "scope": "CertificatesPage",
+    "text": "Issuers"
+  },
+  "CertificatesPage.b2561b50e122": {
+    "scope": "CertificatesPage",
+    "text": "Specializations"
+  },
+  "CertificatesPage.4ea1885778d3": {
+    "scope": "CertificatesPage",
+    "text": "Newest First"
+  },
+  "CertificatesPage.c4a20dba48c5": {
+    "scope": "CertificatesPage",
+    "text": "Oldest First"
+  },
+  "CertificatesPage.a49d631f8c6c": {
+    "scope": "CertificatesPage",
+    "text": "Alphabetical"
+  },
+  "CertificatesPage.bbc254c547a7": {
+    "scope": "CertificatesPage",
+    "text": " Credential link"
+  },
+  "CertificatesPage.0a5aeb82680a": {
+    "scope": "CertificatesPage",
+    "text": "Issued: "
+  },
+  "CertificatesPage.d7166e572248": {
+    "scope": "CertificatesPage",
+    "text": "ID: "
+  },
+  "CertificatesPage.324b134f57c7": {
+    "scope": "CertificatesPage",
+    "text": "Preview"
+  },
+  "CertificatesPage.45989de49fb7": {
+    "scope": "CertificatesPage",
+    "text": "Details"
+  },
+  "CertificatesPage.435567b14289": {
+    "scope": "CertificatesPage",
+    "text": "← Previous"
+  },
+  "CertificatesPage.6076934f99bd": {
+    "scope": "CertificatesPage",
+    "text": "Page "
+  },
+  "CertificatesPage.a4282e4b2298": {
+    "scope": "CertificatesPage",
+    "text": " of "
+  },
+  "CertificatesPage.bcf0489a7b45": {
+    "scope": "CertificatesPage",
+    "text": "Next →"
+  },
+  "ContactPage.be35524d355b": {
+    "scope": "ContactPage",
+    "text": "Avg Response: "
+  },
+  "ContactPage.777cd23ce55c": {
+    "scope": "ContactPage",
+    "text": "Direct Channels"
+  },
+  "ContactPage.fa81ad5b80f9": {
+    "scope": "ContactPage",
+    "text": "Quick Response"
+  },
+  "ContactPage.a93d4dd3b6f4": {
+    "scope": "ContactPage",
+    "text": "Email Address:"
+  },
+  "ContactPage.646de1d1e1ac": {
+    "scope": "ContactPage",
+    "text": "Response Guarantee:"
+  },
+  "ContactPage.bbdffe25dc7d": {
+    "scope": "ContactPage",
+    "text": "Location:"
+  },
+  "ContactPage.00c9eb602360": {
+    "scope": "ContactPage",
+    "text": "Connect Directly:"
+  },
+  "ContactPage.ad411144a97f": {
+    "scope": "ContactPage",
+    "text": "Remote & Global Availability"
+  },
+  "ContactPage.3f00e7f684db": {
+    "scope": "ContactPage",
+    "text": "Available for remote engineering contracts, global distributed teams, and on-site relocation."
+  },
+  "ContactPage.4e9f48728271": {
+    "scope": "ContactPage",
+    "text": "Got Questions?"
+  },
+  "ContactPage.a3d458e1bd1e": {
+    "scope": "ContactPage",
+    "text": "Frequently Asked Questions"
+  },
+  "ContactPage.080ec9e88db5": {
+    "scope": "ContactPage",
+    "text": "Common questions regarding work engagement models, technologies, and response timelines."
+  },
+  "ExperiencePage.cedcb18dd05a": {
+    "scope": "ExperiencePage",
+    "text": "View resume"
+  },
+  "ExperiencePage.4a7bf673bec0": {
+    "scope": "ExperiencePage",
+    "text": "Experience details coming soon"
+  },
+  "ExperiencePage.4718284698c7": {
+    "scope": "ExperiencePage",
+    "text": "Professional milestones, responsibilities, and selected accomplishments will appear here when published."
+  },
+  "ExperiencePage.dd142e0c1ea9": {
+    "scope": "ExperiencePage",
+    "text": "Key Responsibilities & System Architecture:"
+  },
+  "ExperiencePage.6b23844b034f": {
+    "scope": "ExperiencePage",
+    "text": " Key Accomplishments & Metrics:"
+  },
+  "ExperiencePage.75abc688ad62": {
+    "scope": "ExperiencePage",
+    "text": "Career Highlights"
+  },
+  "ExperiencePage.686ccf9d354d": {
+    "scope": "ExperiencePage",
+    "text": "Career highlights will appear here when published."
+  },
+  "ExperiencePage.16ef0eaf6363": {
+    "scope": "ExperiencePage",
+    "text": "Core Strengths"
+  },
+  "ExperiencePage.177ec7844083": {
+    "scope": "ExperiencePage",
+    "text": "Full Stack Execution"
+  },
+  "ExperiencePage.3388f1a92d06": {
+    "scope": "ExperiencePage",
+    "text": "React, Next.js, Node.js, Express, REST/GraphQL"
+  },
+  "ExperiencePage.ea71b5e16ad2": {
+    "scope": "ExperiencePage",
+    "text": "AI & Computer Vision"
+  },
+  "ExperiencePage.782e7f360d43": {
+    "scope": "ExperiencePage",
+    "text": "YOLOv8, PyTorch, Edge TPU inference, OpenCV"
+  },
+  "ExperiencePage.c4998dadb948": {
+    "scope": "ExperiencePage",
+    "text": "Embedded IoT Telemetry"
+  },
+  "ExperiencePage.752794bc51e6": {
+    "scope": "ExperiencePage",
+    "text": "ESP32, MicroPython, MQTT, Cloud Data Pipelines"
+  },
+  "ExperiencePage.e321ba3dad9f": {
+    "scope": "ExperiencePage",
+    "text": "Tech Stack Logos"
+  },
+  "ExperiencePage.8a1376fa2f26": {
+    "scope": "ExperiencePage",
+    "text": "Logos Only"
+  },
+  "ExperiencePage.c87baa09f628": {
+    "scope": "ExperiencePage",
+    "text": "Proficient in modern engineering toolchains"
+  },
+  "GalleryPage.4b5db6b18c52": {
+    "scope": "GalleryPage",
+    "text": "Visual Showcase"
+  },
+  "GalleryPage.7d44296188f8": {
+    "scope": "GalleryPage",
+    "text": "Media & Hackathon Gallery"
+  },
+  "GalleryPage.94d5fe95364e": {
+    "scope": "GalleryPage",
+    "text": "Selected highlights from events, talks, design work, and technical collaborations."
+  },
+  "GalleryPage.c95e54f997b3": {
+    "scope": "GalleryPage",
+    "text": "Media Gallery Ready"
+  },
+  "GalleryPage.e1500d2bf618": {
+    "scope": "GalleryPage",
+    "text": "No gallery items have been published yet. Check back soon for new visual highlights."
+  },
+  "NotFoundPage.3e6f36f15057": {
+    "scope": "NotFoundPage",
+    "text": "404 / route not found"
+  },
+  "NotFoundPage.6dee76d8302a": {
+    "scope": "NotFoundPage",
+    "text": "This page drifted out of orbit."
+  },
+  "NotFoundPage.099aca8276a0": {
+    "scope": "NotFoundPage",
+    "text": "The link may be old, or the page has moved. Return to the portfolio home to continue exploring."
+  },
+  "NotFoundPage.49f1436be661": {
+    "scope": "NotFoundPage",
+    "text": "Back home"
+  },
+  "PrivacyPage.803c5679e9ab": {
+    "scope": "PrivacyPage",
+    "text": "Legal Compliance"
+  },
+  "PrivacyPage.506ff3946215": {
+    "scope": "PrivacyPage",
+    "text": "Privacy Policy"
+  },
+  "PrivacyPage.3d3e64aef8e3": {
+    "scope": "PrivacyPage",
+    "text": "Last updated: September 10, 2026"
+  },
+  "PrivacyPage.628fa20080ca": {
+    "scope": "PrivacyPage",
+    "text": "This notice explains what this portfolio stores when you browse the site, submit the contact form, or use the private administration area."
+  },
+  "PrivacyPage.8dc7bf471f75": {
+    "scope": "PrivacyPage",
+    "text": "1. Information We Collect"
+  },
+  "PrivacyPage.5a2b7de9dc6c": {
+    "scope": "PrivacyPage",
+    "text": "The contact form collects the name, email address, subject, service selection, and message you provide. Hosting infrastructure may also process routine request information, such as an IP address, to deliver the site, prevent abuse, and diagnose failures. This application does not add advertising trackers or analytics cookies."
+  },
+  "PrivacyPage.3022ecbd90f1": {
+    "scope": "PrivacyPage",
+    "text": "2. Use of Information"
+  },
+  "PrivacyPage.94016f657397": {
+    "scope": "PrivacyPage",
+    "text": "Contact information is used to review and respond to your inquiry, prevent duplicate or abusive submissions, and optionally send an inbox notification. Contact details are not sold to advertisers."
+  },
+  "PrivacyPage.19b70162c48a": {
+    "scope": "PrivacyPage",
+    "text": "3. Storage and service providers"
+  },
+  "PrivacyPage.f7cd383fb6ce": {
+    "scope": "PrivacyPage",
+    "text": "In the hosted configuration, contact submissions and portfolio content are stored in Supabase. Resend may process contact details when optional email notifications are enabled, and the hosting provider processes web requests. Contact messages remain in the admin inbox until the site owner deletes them or applies a separate retention process."
+  },
+  "PrivacyPage.2962cf2dbf0d": {
+    "scope": "PrivacyPage",
+    "text": "4. Browser storage"
+  },
+  "PrivacyPage.3bbeb4d1155b": {
+    "scope": "PrivacyPage",
+    "text": "The site uses browser storage for theme preferences and a local content cache. The private admin area also stores its sign-in session in browser-accessible storage; it does not use an HttpOnly authentication cookie. Avoid using the admin area on shared devices and sign out when finished."
+  },
+  "PrivacyPage.d85eb8b670af": {
+    "scope": "PrivacyPage",
+    "text": "5. Security and your choices"
+  },
+  "PrivacyPage.42afa70ace86": {
+    "scope": "PrivacyPage",
+    "text": "Production traffic should use HTTPS, database access is restricted by role-based policies, and server credentials are not included in browser code. No system can guarantee absolute security. You may request access, correction, or deletion of a contact submission through the contact page; the response available may depend on applicable law and the ability to identify the record."
+  },
+  "ProjectDetailPage.758e8416eb8a": {
+    "scope": "ProjectDetailPage",
+    "text": "Project not found"
+  },
+  "ProjectDetailPage.d9088c8aee01": {
+    "scope": "ProjectDetailPage",
+    "text": "Back to projects"
+  },
+  "ProjectDetailPage.4b87271b6b81": {
+    "scope": "ProjectDetailPage",
+    "text": "All projects"
+  },
+  "ProjectDetailPage.14e1eef6fb45": {
+    "scope": "ProjectDetailPage",
+    "text": "Key features"
+  },
+  "ProjectDetailPage.0e570ca6fabe": {
+    "scope": "ProjectDetailPage",
+    "text": "Source"
+  },
+  "ProjectDetailPage.8e4af10c42ca": {
+    "scope": "ProjectDetailPage",
+    "text": "Live project"
+  },
+  "ProjectsPage.4748e23b30c7": {
+    "scope": "ProjectsPage",
+    "text": " Total Projects"
+  },
+  "ProjectsPage.92e4b812f583": {
+    "scope": "ProjectsPage",
+    "text": "Production & Research"
+  },
+  "ProjectsPage.22de249b5c59": {
+    "scope": "ProjectsPage",
+    "text": "Outcome"
+  },
+  "ProjectsPage.4030b7369722": {
+    "scope": "ProjectsPage",
+    "text": "Case Study"
+  },
+  "ResearchPage.885f5575b804": {
+    "scope": "ResearchPage",
+    "text": " Published Papers"
+  },
+  "ResearchPage.ca62d48e7f74": {
+    "scope": "ResearchPage",
+    "text": "IEEE / Springer & Open Preprints"
+  },
+  "ResearchPage.28d5d4f2b351": {
+    "scope": "ResearchPage",
+    "text": "Citations: "
+  },
+  "ResearchPage.6f5a07f420c3": {
+    "scope": "ResearchPage",
+    "text": "Authors: "
+  },
+  "ResearchPage.d21b4a64a2d8": {
+    "scope": "ResearchPage",
+    "text": "Abstract"
+  },
+  "ResearchPage.56a06eafcaa6": {
+    "scope": "ResearchPage",
+    "text": "Read Full PDF"
+  },
+  "ResearchPage.435567b14289": {
+    "scope": "ResearchPage",
+    "text": "← Previous"
+  },
+  "ResearchPage.6076934f99bd": {
+    "scope": "ResearchPage",
+    "text": "Page "
+  },
+  "ResearchPage.a4282e4b2298": {
+    "scope": "ResearchPage",
+    "text": " of "
+  },
+  "ResearchPage.bcf0489a7b45": {
+    "scope": "ResearchPage",
+    "text": "Next →"
+  },
+  "ResearchPage.0cba071de1d3": {
+    "scope": "ResearchPage",
+    "text": "Research Focus & Domains"
+  },
+  "ResearchPage.ff5ff07011f6": {
+    "scope": "ResearchPage",
+    "text": "Targeting high-throughput, low-latency neural processing on constrained edge hardware, sensor synchronization, and real-time computer vision networks."
+  },
+  "ResearchPage.c8918ee2cedc": {
+    "scope": "ResearchPage",
+    "text": "Model Quantization"
+  },
+  "ResearchPage.f0bbd8088f00": {
+    "scope": "ResearchPage",
+    "text": "INT8 / FP16"
+  },
+  "ResearchPage.327c38b9bd27": {
+    "scope": "ResearchPage",
+    "text": "Inference Targets"
+  },
+  "ResearchPage.f1d90830edf5": {
+    "scope": "ResearchPage",
+    "text": "ESP32 / Edge TPU"
+  },
+  "ResearchPage.7aa75bab9024": {
+    "scope": "ResearchPage",
+    "text": "Telemetry Protocols"
+  },
+  "ResearchPage.c8408bda5d9c": {
+    "scope": "ResearchPage",
+    "text": "MQTT / gRPC"
+  },
+  "ResearchPage.a9773fddff4f": {
+    "scope": "ResearchPage",
+    "text": "Academic Collaboration"
+  },
+  "ResearchPage.3e0b42746f10": {
+    "scope": "ResearchPage",
+    "text": "Open to co-authoring papers, joint research grants, and peer-reviewing publications in AI/ML & IoT."
+  },
+  "ResearchPage.7377ff394d7a": {
+    "scope": "ResearchPage",
+    "text": "Initiate Research Inquiry"
+  },
+  "ResumePage.96c5289ca8ae": {
+    "scope": "ResumePage",
+    "text": "// curriculum vitae"
+  },
+  "ResumePage.65fbb60d43e4": {
+    "scope": "ResumePage",
+    "text": "Official Technical Resume & CV"
+  },
+  "ResumePage.def4e731b45b": {
+    "scope": "ResumePage",
+    "text": "GitHub: "
+  },
+  "ResumePage.fa95d7ba3f06": {
+    "scope": "ResumePage",
+    "text": "LinkedIn: "
+  },
+  "ResumePage.43d27beaebd9": {
+    "scope": "ResumePage",
+    "text": "Executive Profile"
+  },
+  "ResumePage.40e0b23fe043": {
+    "scope": "ResumePage",
+    "text": " Specializing in high-throughput React/Next.js web applications, Python machine learning pipelines, edge computer vision models, and distributed microservices architecture."
+  },
+  "ResumePage.4c69852522c0": {
+    "scope": "ResumePage",
+    "text": "Work Experience"
+  },
+  "ResumePage.512ab3c6b986": {
+    "scope": "ResumePage",
+    "text": "Education"
+  },
+  "ResumePage.15e54e79bbc8": {
+    "scope": "ResumePage",
+    "text": "Technical Competencies"
+  },
+  "ResumePage.c8027be2993a": {
+    "scope": "ResumePage",
+    "text": "Certifications & Industry Credentials"
+  },
+  "ResumePage.2ea99b8796a4": {
+    "scope": "ResumePage",
+    "text": "Verification link"
+  },
+  "SkillsPage.1e0b2c25f35d": {
+    "scope": "SkillsPage",
+    "text": "View resume"
+  },
+  "SkillsPage.66dae7ff043f": {
+    "scope": "SkillsPage",
+    "text": "Skills in practice"
+  },
+  "SkillsPage.7ec9ccccfe3a": {
+    "scope": "SkillsPage",
+    "text": "Skills and percentages below are self-assessments. Explore the related projects for examples of how these technologies are used."
+  },
+  "SkillsPage.0e57f7625091": {
+    "scope": "SkillsPage",
+    "text": "Explore project work"
+  },
+  "SkillsPage.00e4e5eef5a1": {
+    "scope": "SkillsPage",
+    "text": "// self-assessed skills"
+  },
+  "SkillsPage.920a1c12e312": {
+    "scope": "SkillsPage",
+    "text": "Skill Categories & Proficiencies"
+  },
+  "SkillsPage.628b2e03c50c": {
+    "scope": "SkillsPage",
+    "text": "Skills profile coming soon"
+  },
+  "SkillsPage.4173c1c96524": {
+    "scope": "SkillsPage",
+    "text": "A detailed, self-assessed skills profile will appear here when it is published."
+  },
+  "SkillsPage.42ee6595f96c": {
+    "scope": "SkillsPage",
+    "text": " Self-assessed Skills"
+  },
+  "SkillsPage.aab1987287d7": {
+    "scope": "SkillsPage",
+    "text": "// developer environment"
+  },
+  "SkillsPage.54040de4c16e": {
+    "scope": "SkillsPage",
+    "text": "Favorite Productivity Tools & Software"
+  },
+  "SkillsPage.95e83f6af248": {
+    "scope": "SkillsPage",
+    "text": "Explore Projects"
+  },
+  "SkillsPage.e0fbdf63c992": {
+    "scope": "SkillsPage",
+    "text": "No Custom Tools Added Yet"
+  },
+  "SkillsPage.78a6a2674108": {
+    "scope": "SkillsPage",
+    "text": "Add your primary IDEs, CLI tools, and databases in Admin"
+  },
+  "SkillsPage.9ab010ed93eb": {
+    "scope": "SkillsPage",
+    "text": "// continuous growth"
+  },
+  "SkillsPage.0dd4b4d3de89": {
+    "scope": "SkillsPage",
+    "text": "Currently Learning & Researching"
+  },
+  "SkillsPage.75ee8d69a810": {
+    "scope": "SkillsPage",
+    "text": "Continuous Learning Roadmap Ready"
+  },
+  "SkillsPage.405ab158aa66": {
+    "scope": "SkillsPage",
+    "text": "Add upcoming technologies you are studying in Admin"
+  },
+  "SkillsPage.4664827f8e89": {
+    "scope": "SkillsPage",
+    "text": "Progress"
+  },
+  "TermsPage.12a0015fa322": {
+    "scope": "TermsPage",
+    "text": "Terms of Use"
+  },
+  "TermsPage.173f5f9f26b4": {
+    "scope": "TermsPage",
+    "text": "Terms & Conditions"
+  },
+  "TermsPage.a8e85d87e457": {
+    "scope": "TermsPage",
+    "text": "Effective Date: January 1, 2026"
+  },
+  "TermsPage.981650c4c048": {
+    "scope": "TermsPage",
+    "text": "Welcome to RohanOS. By accessing or using this website, you agree to comply with and be bound by the following terms and conditions."
+  },
+  "TermsPage.a0e6307a7047": {
+    "scope": "TermsPage",
+    "text": "1. Intellectual Property"
+  },
+  "TermsPage.55c4993d81bb": {
+    "scope": "TermsPage",
+    "text": "All source code, project showcase designs, research publication text, and branding logos on RohanOS are the intellectual property of Rohan Jaiswal unless stated otherwise."
+  },
+  "TermsPage.edfc2788fc5e": {
+    "scope": "TermsPage",
+    "text": "2. Open Source Software"
+  },
+  "TermsPage.f59c692ad017": {
+    "scope": "TermsPage",
+    "text": "Specific project repositories linked in the portfolio are governed by their respective open source licenses (e.g. MIT, Apache 2.0)."
+  },
+  "AboutSection.fc63ebaddbec": {
+    "scope": "AboutSection",
+    "text": "Personal Biography"
+  },
+  "AboutSection.97b5f34147c1": {
+    "scope": "AboutSection",
+    "text": "Curiosity meets craft."
+  },
+  "AboutSection.bbb57afd2e77": {
+    "scope": "AboutSection",
+    "text": "Core Technical Domains"
+  },
+  "AboutSection.f0ce0fbfd164": {
+    "scope": "AboutSection",
+    "text": "Read Complete Career Narrative"
+  },
+  "CertificatesSection.625039847b22": {
+    "scope": "CertificatesSection",
+    "text": "Professional Credentials"
+  },
+  "CertificatesSection.339a45a9d6a8": {
+    "scope": "CertificatesSection",
+    "text": "Professional Certifications"
+  },
+  "CertificatesSection.c9c0259825eb": {
+    "scope": "CertificatesSection",
+    "text": "View All "
+  },
+  "CertificatesSection.4b1c50f6e64e": {
+    "scope": "CertificatesSection",
+    "text": " Certifications"
+  },
+  "CertificatesSection.c12719cb60b1": {
+    "scope": "CertificatesSection",
+    "text": "Credentials coming soon"
+  },
+  "CertificatesSection.662e31f4f942": {
+    "scope": "CertificatesSection",
+    "text": "Verified certificates and credential links will appear here when they are published."
+  },
+  "CertificatesSection.30e0db739e05": {
+    "scope": "CertificatesSection",
+    "text": " Verified"
+  },
+  "CertificatesSection.d7166e572248": {
+    "scope": "CertificatesSection",
+    "text": "ID: "
+  },
+  "CertificatesSection.ee22ca365475": {
+    "scope": "CertificatesSection",
+    "text": "View Proof Modal →"
+  },
+  "ContactSection.3ee6cddb8ee0": {
+    "scope": "ContactSection",
+    "text": "Get In Touch"
+  },
+  "ContactSection.d4bd4bb7f356": {
+    "scope": "ContactSection",
+    "text": "Have something in mind?"
+  },
+  "ContactSection.10ac8172f9bd": {
+    "scope": "ContactSection",
+    "text": "A project, an opportunity, or just a good conversation. Let’s talk."
+  },
+  "ContactSection.a803f50021a1": {
+    "scope": "ContactSection",
+    "text": "Global Reach & Connectivity"
+  },
+  "ContactSection.ab99e81e4dcf": {
+    "scope": "ContactSection",
+    "text": "● Worldwide"
+  },
+  "ContactSection.a67b8cd748e7": {
+    "scope": "ContactSection",
+    "text": "Collaborating remotely with clients, engineering teams, and open-source contributors across the globe."
+  },
+  "ContactSection.0a6181a89b0a": {
+    "scope": "ContactSection",
+    "text": "Based in India · Open to Remote & Relocation"
+  },
+  "ContactSection.fdee706ec7ad": {
+    "scope": "ContactSection",
+    "text": "Direct Communication"
+  },
+  "ContactSection.8f6bed11e7d7": {
+    "scope": "ContactSection",
+    "text": "Response Time:"
+  },
+  "ContactSection.bbdffe25dc7d": {
+    "scope": "ContactSection",
+    "text": "Location:"
+  },
+  "ContactSection.d849c8e4e08f": {
+    "scope": "ContactSection",
+    "text": "Direct Email:"
+  },
+  "ContactSection.2868f7d0f861": {
+    "scope": "ContactSection",
+    "text": "I usually respond within 24 hours"
+  },
+  "ExperienceSection.557ce5562a3a": {
+    "scope": "ExperienceSection",
+    "text": "Career Trajectory"
+  },
+  "ExperienceSection.ed738ed803f9": {
+    "scope": "ExperienceSection",
+    "text": "Experience Timeline"
+  },
+  "ExperienceSection.d00a80368f1e": {
+    "scope": "ExperienceSection",
+    "text": "// high-impact roles in AI systems, full-stack architecture & distributed cloud"
+  },
+  "ExperienceSection.67caa1fabc9d": {
+    "scope": "ExperienceSection",
+    "text": "Full Deliverables & Metrics"
+  },
+  "ExperienceSection.4a7bf673bec0": {
+    "scope": "ExperienceSection",
+    "text": "Experience details coming soon"
+  },
+  "ExperienceSection.d1fcf6dc2b14": {
+    "scope": "ExperienceSection",
+    "text": "Professional milestones and selected accomplishments will appear here when published."
+  },
+  "HeroSection.95e83f6af248": {
+    "scope": "HeroSection",
+    "text": "Explore Projects"
+  },
+  "HeroSection.8b91ec601d3b": {
+    "scope": "HeroSection",
+    "text": "View resume"
+  },
+  "HeroSection.bfd49ac7b3c6": {
+    "scope": "HeroSection",
+    "text": "Find me on"
+  },
+  "HeroSection.67781cce7d15": {
+    "scope": "HeroSection",
+    "text": "IDEAS / SYSTEMS / EXPERIENCES"
+  },
+  "HeroSection.6284abe7d04a": {
+    "scope": "HeroSection",
+    "text": "01 / SELECTED WORK"
+  },
+  "HeroSection.ccd7e3adc3ec": {
+    "scope": "HeroSection",
+    "text": "A CLOSER LOOK / 01"
+  },
+  "HeroSection.5e4bf6f72e23": {
+    "scope": "HeroSection",
+    "text": "Featured project"
+  },
+  "HeroSection.b9a1c7589ff0": {
+    "scope": "HeroSection",
+    "text": "Ideas, made tangible."
+  },
+  "HeroSection.0567cc729be9": {
+    "scope": "HeroSection",
+    "text": "Built with intention."
+  },
+  "HeroSection.a2c11dcbfa54": {
+    "scope": "HeroSection",
+    "text": "From the first idea to the final detail."
+  },
+  "HeroSection.f80abfbc936d": {
+    "scope": "HeroSection",
+    "text": "OPEN TO WHAT'S NEXT "
+  },
+  "HeroSection.352ce8d49637": {
+    "scope": "HeroSection",
+    "text": "Discover the work "
+  },
+  "HeroSection.5f2e4f1f973d": {
+    "scope": "HeroSection",
+    "text": "WEB / DATA / CONNECTED SYSTEMS"
+  },
+  "HomePreviews.bf3102a211b6": {
+    "scope": "HomePreviews",
+    "text": "A LITTLE ABOUT ME /"
+  },
+  "HomePreviews.7a45618f61d4": {
+    "scope": "HomePreviews",
+    "text": "02 / THE PERSON BEHIND THE CODE"
+  },
+  "HomePreviews.2f344c8e0365": {
+    "scope": "HomePreviews",
+    "text": "More about "
+  },
+  "HomePreviews.508fb79b61ff": {
+    "scope": "HomePreviews",
+    "text": "03 / ALONG THE WAY"
+  },
+  "HomePreview.experience": {
+    "scope": "HomePreview",
+    "text": "Experience that shapes the work."
+  },
+  "HomePreviews.1fcb1b7cb0d5": {
+    "scope": "HomePreviews",
+    "text": "The full story"
+  },
+  "HomePreviews.701c0e16205c": {
+    "scope": "HomePreviews",
+    "text": "04 / A VERSATILE TOOLKIT"
+  },
+  "SkillsTechSection.91220ceeef61": {
+    "scope": "SkillsTechSection",
+    "text": "Honors, Core Skills & Technologies"
+  },
+  "HomePreviews.d35f08529346": {
+    "scope": "HomePreviews",
+    "text": "The technologies behind the work, with room to keep learning."
+  },
+  "HomePreviews.7fd2f733160f": {
+    "scope": "HomePreviews",
+    "text": "Explore my toolkit"
+  },
+  "HomePreviews.2324f6316889": {
+    "scope": "HomePreviews",
+    "text": "05 / NEVER DONE LEARNING"
+  },
+  "HomePreview.credentials": {
+    "scope": "HomePreview",
+    "text": "A little more depth."
+  },
+  "HomePreviews.7c7188ce750a": {
+    "scope": "HomePreviews",
+    "text": "All credentials"
+  },
+  "HomePreviews.15f8399cfa37": {
+    "scope": "HomePreviews",
+    "text": "06 / SOMETHING GOOD STARTS HERE"
+  },
+  "ProjectsSection.6284abe7d04a": {
+    "scope": "ProjectsSection",
+    "text": "01 / SELECTED WORK"
+  },
+  "ProjectsSection.578b64b8e219": {
+    "scope": "ProjectsSection",
+    "text": "A few things I've built."
+  },
+  "ProjectsSection.1a1931e15444": {
+    "scope": "ProjectsSection",
+    "text": "Different challenges."
+  },
+  "ProjectsSection.95d5e8d59b26": {
+    "scope": "ProjectsSection",
+    "text": "The same attention to detail."
+  },
+  "ProjectsSection.ee20284f69b0": {
+    "scope": "ProjectsSection",
+    "text": "Read case study"
+  },
+  "ProjectsSection.01fd608d5cba": {
+    "scope": "ProjectsSection",
+    "text": "Read case study"
+  },
+  "ProjectsSection.28419bb3a762": {
+    "scope": "ProjectsSection",
+    "text": "New case studies are being prepared. Check back soon for project details, source links, and live demonstrations."
+  },
+  "ProjectsSection.939391315372": {
+    "scope": "ProjectsSection",
+    "text": " projects. Plenty of curiosity."
+  },
+  "ProjectsSection.9a92a27a2688": {
+    "scope": "ProjectsSection",
+    "text": "Explore all projects"
+  },
+  "SkillsTechSection.ca45ba8d6c7a": {
+    "scope": "SkillsTechSection",
+    "text": "Skills & Expertise"
+  },
+  "SkillsTechSection.8593de92aff1": {
+    "scope": "SkillsTechSection",
+    "text": "View All Skills"
+  },
+  "SkillsTechSection.0f3fb17754d4": {
+    "scope": "SkillsTechSection",
+    "text": "Honors & Awards"
+  },
+  "SkillsTechSection.74cf2bc63fe1": {
+    "scope": "SkillsTechSection",
+    "text": "Achievements"
+  },
+  "SkillsTechSection.8a6cd34114dd": {
+    "scope": "SkillsTechSection",
+    "text": "Honors coming soon"
+  },
+  "SkillsTechSection.e63925a7f24a": {
+    "scope": "SkillsTechSection",
+    "text": "Selected awards and recognitions will appear here."
+  },
+  "SkillsTechSection.c12c20b00b9c": {
+    "scope": "SkillsTechSection",
+    "text": "Technology Stack"
+  },
+  "SkillsTechSection.7c7608de96a3": {
+    "scope": "SkillsTechSection",
+    "text": "Core Tools"
+  },
+  "SkillsTechSection.0f2298fe09b5": {
+    "scope": "SkillsTechSection",
+    "text": "No tools added yet."
+  },
+  "WritingResearchSection.fd9aa3cf718f": {
+    "scope": "WritingResearchSection",
+    "text": " / NOTES & EXPLORATIONS"
+  },
+  "WritingResearchSection.15db1f6a35dc": {
+    "scope": "WritingResearchSection",
+    "text": "Thinking out loud"
+  },
+  "WritingResearchSection.154cdc9be5cd": {
+    "scope": "WritingResearchSection",
+    "text": "Writing and research belong beside the finished work: they show the questions, tradeoffs, and lessons along the way."
+  },
+  "WritingResearchSection.c088c7aa368d": {
+    "scope": "WritingResearchSection",
+    "text": "WRITING / 01"
+  },
+  "WritingResearchSection.d3f73dc4eb7b": {
+    "scope": "WritingResearchSection",
+    "text": "Read writing "
+  },
+  "WritingResearchSection.c23b8f0099a3": {
+    "scope": "WritingResearchSection",
+    "text": "RESEARCH / 02"
+  },
+  "WritingResearchSection.24877dc660e0": {
+    "scope": "WritingResearchSection",
+    "text": "Explore research "
+  },
+  "WritingResearchSection.e2335e129579": {
+    "scope": "WritingResearchSection",
+    "text": "Design preview: writing and research entries are sample content."
+  },
+  "Footer.3db65f8c2a7d": {
+    "scope": "Footer",
+    "text": "Navigation"
+  },
+  "Footer.3b73900b8d29": {
+    "scope": "Footer",
+    "text": "Explore"
+  },
+  "Footer.727fa290a135": {
+    "scope": "Footer",
+    "text": "Get in Touch"
+  },
+  "Footer.969ccbd3cf63": {
+    "scope": "Footer",
+    "text": "Email"
+  },
+  "Footer.15b61974b270": {
+    "scope": "Footer",
+    "text": "Location"
+  },
+  "Footer.12f67f8539c4": {
+    "scope": "Footer",
+    "text": "Availability"
+  },
+  "Footer.fa8cb5660331": {
+    "scope": "Footer",
+    "text": "© 2026 Rohan Jaiswal. All rights reserved."
+  },
+  "Footer.506ff3946215": {
+    "scope": "Footer",
+    "text": "Privacy Policy"
+  },
+  "Footer.173f5f9f26b4": {
+    "scope": "Footer",
+    "text": "Terms & Conditions"
+  },
+  "Navbar.2e1ac6e9292a": {
+    "scope": "Navbar",
+    "text": "Explore "
+  },
+  "ContactSection.957bfa3a47aa": {
+    "scope": "ContactSection",
+    "text": "Message received"
+  },
+  "ContactPage.17c769cf0462": {
+    "scope": "ContactPage",
+    "text": "Message received"
+  },
+  "ContactSection.cf320e9771fc": {
+    "scope": "ContactSection",
+    "text": "Thank you for reaching out. Your message has been received."
+  },
+  "ContactPage.d30c337c094f": {
+    "scope": "ContactPage",
+    "text": "Thank you for reaching out. Your message has been received."
+  },
+  "ContactForm.c6ce3f02499c": {
+    "scope": "ContactForm",
+    "text": "Send another message"
+  },
+  "ContactPage.770d58a0dc81": {
+    "scope": "ContactPage",
+    "text": "Send Direct Message"
+  },
+  "ContactPage.0366c978785e": {
+    "scope": "ContactPage",
+    "text": "Fill out this form to start a conversation."
+  },
+  "ContactSection.fa414f1e7ce0": {
+    "scope": "ContactSection",
+    "text": "Your Name *"
+  },
+  "ContactPage.12e4aee36cce": {
+    "scope": "ContactPage",
+    "text": "Your Name *"
+  },
+  "ContactSection.1b72562c828c": {
+    "scope": "ContactSection",
+    "text": "Email Address *"
+  },
+  "ContactPage.1b72562c828c": {
+    "scope": "ContactPage",
+    "text": "Email Address *"
+  },
+  "ContactPage.68971283841a": {
+    "scope": "ContactPage",
+    "text": "Subject (optional)"
+  },
+  "ContactPage.86cc917543e2": {
+    "scope": "ContactPage",
+    "text": "Inquiry Category"
+  },
+  "ContactSection.4e89a4049b7b": {
+    "scope": "ContactSection",
+    "text": "Your Message *"
+  },
+  "ContactPage.4e89a4049b7b": {
+    "scope": "ContactPage",
+    "text": "Your Message *"
+  },
+  "ContactForm.359563dab100": {
+    "scope": "ContactForm",
+    "text": " characters"
+  },
+  "ContactForm.66d131947363": {
+    "scope": "ContactForm",
+    "text": "Reference: "
+  },
+  "ContactForm.009557a4da1e": {
+    "scope": "ContactForm",
+    "text": "Email "
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "/assets/about-profile.webp": {
+    "width": 768,
+    "height": 1376,
+    "small": "/assets/about-profile-small.webp"
+  },
+  "/assets/Blog (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Blog (Dark)-small.webp"
+  },
+  "/assets/Blog (Light).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Blog (Light)-small.webp"
+  },
+  "/assets/Certificate Page (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Certificate Page (Dark)-small.webp"
+  },
+  "/assets/Certificate Page (Light).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Certificate Page (Light)-small.webp"
+  },
+  "/assets/Contact (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Contact (Dark)-small.webp"
+  },
+  "/assets/Contact (Light).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Contact (Light)-small.webp"
+  },
+  "/assets/Cube Image (dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Cube Image (dark)-small.webp"
+  },
+  "/assets/Cube Image.webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Cube Image-small.webp"
+  },
+  "/assets/Experience Page (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Experience Page (Dark)-small.webp"
+  },
+  "/assets/Experience Page (Light).webp": {
+    "width": 960,
+    "height": 720,
+    "small": "/assets/Experience Page (Light)-small.webp"
+  },
+  "/assets/Project Page (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Project Page (Dark)-small.webp"
+  },
+  "/assets/Project Page (Light).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Project Page (Light)-small.webp"
+  },
+  "/assets/Research (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Research (Dark)-small.webp"
+  },
+  "/assets/Research (Light).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Research (Light)-small.webp"
+  },
+  "/assets/Skill Page (Dark).webp": {
+    "width": 960,
+    "height": 640,
+    "small": "/assets/Skill Page (Dark)-small.webp"
+  },
+  "/assets/Skill Page (Light).webp": {
+    "width": 960,
+    "height": 720,
+    "small": "/assets/Skill Page (Light)-small.webp"
+  }
+}
