@@ -1,0 +1,54 @@
+name: RohanOS Studio Quality & Build Pipeline
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  quality:
+    name: Lint, Test, Typecheck & Browser Specs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run ESLint
+        run: npm run lint
+
+      - name: Typecheck TypeScript (App & Tests)
+        run: npm run typecheck
+
+      - name: Typecheck Node Tooling Configs
+        run: npx tsc --project tsconfig.node.json --noEmit
+
+      - name: Run Unit Tests (Vitest)
+        run: npm test
+
+      - name: Build Production Bundle
+        run: npm run build
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Playwright Browser Tests
+        run: npm run test:browser
+
+      - name: Upload Browser Test Evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: admin-browser-evidence
+          path: test-results/
+          if-no-files-found: ignore
